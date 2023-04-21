@@ -5,10 +5,9 @@ File directory
 ```
 dsa5204project/
 ├── README.md
-├── 
-    ├── 
-    ├── 
-    ├── 
-├── multi-stream.ipynb
+├── MT-MobileNetV2.ipynb
+├── MT-ResNet_GN.ipynb
+├── MT_InceptionResnetV2.ipynb
+├── Multi-stream.ipynb
 ├── Reproduce MT-Resnet.ipynb
 ```
